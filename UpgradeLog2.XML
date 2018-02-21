@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="images">
+</Property><Property Name="Solution File" Value="D:\Workspace\ScreenSavers\images\images.sln">
+</Property><Property Name="Date" Value="6 lutego 2011">
+</Property><Property Name="Time" Value="00:22">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="images" Source="images.vcproj" Description="Converting project file 'D:\Workspace\ScreenSavers\images\images.vcproj'.">
+</Event><Event ErrorLevel="1" Project="images" Source="images.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="images" Source="images.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="images" Source="images.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="images" Source="images.vcproj" Description="MSB8012: $(TargetExt) ('.exe') does not match the Linker's OutputFile property value 'Debug\images.scr' ('.scr') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetExt) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="images" Source="images.vcproj" Description="MSB8012: $(TargetPath) ('D:\Workspace\ScreenSavers\images\Debug\images.exe') does not match the Linker's OutputFile property value 'Debug\images.scr' ('D:\Workspace\ScreenSavers\images\Debug\images.scr') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="images" Source="images.vcproj" Description="MSB8012: $(TargetExt) ('.exe') does not match the Linker's OutputFile property value 'Release\images.scr' ('.scr') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetExt) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="images" Source="images.vcproj" Description="MSB8012: $(TargetPath) ('D:\Workspace\ScreenSavers\images\Release\images.exe') does not match the Linker's OutputFile property value 'Release\images.scr' ('D:\Workspace\ScreenSavers\images\Release\images.scr') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="images" Source="images.vcproj" Description="Done converting to new project file 'D:\Workspace\ScreenSavers\images\images.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="images" Source="images.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="images.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="images.sln" Description="Converted">
+</Event></UpgradeLog>
